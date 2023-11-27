@@ -1,4 +1,5 @@
 // const calc = require('./calc.js');
+// ./ は example.jsからの相対パス
 const {plus} = require('./calc.js');
 
 // const result = calc.plus(1, 2);

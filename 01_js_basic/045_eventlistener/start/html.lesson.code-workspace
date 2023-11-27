@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "html.lesson",
+			"path": "../../../../html.lesson"
+		},
+		{
+			"name": "react",
+			"path": "../../../../react"
+		},
+		{
+			"name": "nodejs-comp-guide",
+			"path": "../../.."
+		},
+		{
+			"name": "C",
+			"path": "../../../../C"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nodejs-comp-guide"
+	}
+}
